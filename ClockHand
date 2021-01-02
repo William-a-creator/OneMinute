@@ -1,4 +1,4 @@
-
+//code provided by University of Helsinki's JAVA PROGRAMMING 1 MOOC Course
 public class ClockHand {
 
     private int value;
